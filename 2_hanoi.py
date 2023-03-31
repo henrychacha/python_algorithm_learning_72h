@@ -1,7 +1,7 @@
 # 2022-11-21 Mon 14:04
 # 漢諾塔問題
 
-def hanoi(n,a,b,c):
+def f(n,a,b,c):
     # a means beginning disk
     # b means intermediate disk
     # c means the disk where all plates should end up
